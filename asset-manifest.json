@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.02167d47.chunk.css",
+    "main.js": "./static/js/main.a28d7ef6.chunk.js",
+    "main.js.map": "./static/js/main.a28d7ef6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4bd77143.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4bd77143.js.map",
+    "static/js/2.0f09a64b.chunk.js": "./static/js/2.0f09a64b.chunk.js",
+    "static/js/2.0f09a64b.chunk.js.map": "./static/js/2.0f09a64b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.2a9f2a24f489f70fe74a9ad668d12cdc.js": "./precache-manifest.2a9f2a24f489f70fe74a9ad668d12cdc.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.02167d47.chunk.css.map": "./static/css/main.02167d47.chunk.css.map",
+    "static/js/2.0f09a64b.chunk.js.LICENSE.txt": "./static/js/2.0f09a64b.chunk.js.LICENSE.txt",
+    "static/media/ebay.svg": "./static/media/ebay.cc45c51d.svg",
+    "static/media/gunb.svg": "./static/media/gunb.9ab101e6.svg",
+    "static/media/ideal.svg": "./static/media/ideal.a4ee6c34.svg",
+    "static/media/shop_cart.svg": "./static/media/shop_cart.d6e832ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd77143.js",
+    "static/js/2.0f09a64b.chunk.js",
+    "static/css/main.02167d47.chunk.css",
+    "static/js/main.a28d7ef6.chunk.js"
+  ]
+}
